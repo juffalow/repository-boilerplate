@@ -1,4 +1,4 @@
-# Default Repository
+# Repository Boilerplate
 
 *Description of the repository*
 
